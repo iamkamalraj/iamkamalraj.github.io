@@ -23,7 +23,7 @@ const projects = [
   },
   {
     title: "logo Design",
-    cardImage: "assets/images/project-page/flappybird.png",
+    cardImage: "assets/images/project-page/alllogo.png",
     description: "Ledovec International",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/flappybird.png",
     Previewlink: "https://www.behance.net/iamkamalraj",
