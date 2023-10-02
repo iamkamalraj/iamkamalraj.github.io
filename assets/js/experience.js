@@ -49,9 +49,22 @@ const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
     title: "Vegetation measurement along the line corridor using satellite imagery",
-    cardImage: "assets/images/experience-page/1.jpg",
+    cardImage: "assets/images/experience-page/12.jpg",
     description:
-      "Vegetation Vigilants.",
+      "SIH 2023 Idea",
+  },
+  {
+    title: "AUDIOBOOK CHURN PREDICTION",
+    cardImage: "assets/images/experience-page/8558.jpg",
+    description:
+      "This project aims to develop a predictive model that can accurately identify such audiobook customers - Mini Project",
+  },
+  {
+    title: "Indoor Navigation for Museums",
+    cardImage: "assets/images/experience-page/indoornav.jpg",
+    description:
+      "User can view Muesum, artifacts and the path generated between them - SIH 2022 Idea",
+    
   },
   ];
 
