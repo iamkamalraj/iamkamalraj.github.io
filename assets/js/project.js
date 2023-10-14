@@ -6,15 +6,23 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Guesser Game",
+    title: "ELOQUENCE'23 (6th National Level Symposium) ",
+    cardImage: "assets/images/project-page/eloq.webp",
+    description: "6th National Level Technical Symposium",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://dribbble.com/iamkamalraj",
+    Githublink: "https://github.com/iamkamalraj",
+  },
+  {
+    title: "Guesser Game (A quiz game built using Java)",
     cardImage: "assets/images/project-page/quiz.jpg",
     description: "A quiz game built using Java.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://github.com/iamkamalraj/Guesser-Game",
+    Previewlink: "https://github.com/iamkamalraj/",
     Githublink: "https://github.com/iamkamalraj/Guesser-Game",
   },
   {
-    title: "Progate Website",
+    title: "Progate Website (Using HTML & CSS)",
     cardImage: "assets/images/project-page/chess.jpg",
     description: "Using HTML & CSS",
     tagimg: "https://image.flaticon.com/icons/png/512/643/chess.png",
@@ -22,12 +30,12 @@ const projects = [
     Githublink: "https://github.com/iamkamalraj/HTML",
   },
   {
-    title: "logo Design",
+    title: "logo Design (for Karthigeya Group)",
     cardImage: "assets/images/project-page/alllogo.png",
     description: "Ledovec International",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/flappybird.png",
-    Previewlink: "https://www.behance.net/iamkamalraj",
-    Githublink: "https://github.com/iamkamalraj",
+    Previewlink: "https://www.karthigeya.com/",
+    Githublink: "https://www.behance.net/iamkamalraj",
   },
   
 ];
