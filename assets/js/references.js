@@ -7,9 +7,9 @@ const referenceTable = document.querySelector(".pain");
 const references = [
   {
     sl1: 1,
-    name1 : "Overall Designer",
+        name1 : "Overall Designer",
         designation1 : "Issued by ELOQUENCE'23, 6th National Level Symposium",
-        image1 : "https://media.licdn.com/dms/image/D5622AQGmuWxIi4zHVA/feedshare-shrink_1280/0/1696773423851?e=1700092800&v=beta&t=U3kQkxME_lS4Ks-1fDomUg05e3e8cYBOzBz92EXoaEg",
+        image1 : "assets/images/references-page/2.jpg",
         message1 : "Overall design including Logo, Banners, Poster, Pamphlets, ID Cards, Certificates, Registration Cards, Invitations and Additional UI Design Elements for ELOQUENCE'23 Webiste which was organised by CSE department associated with C. Abdul Hakeem College of Engineering and Technology",
         
 
