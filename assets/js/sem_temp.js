@@ -4,7 +4,7 @@
 // Header
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar">
-<a class="navbar-brand" href="index.html">John Doe </a>
+<a class="navbar-brand" href="index.html">Kamal Raj </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
@@ -22,7 +22,7 @@ let header = $(`
    <li class="nav-item nav-item-hover"><a class="nav-link" href="projects.html">Projects</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="research.html">Research</a></li>
    <li class="nav-item nav-item-hover"><a class="nav-link" href="education.html">Education</a></li>
-   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://hashnode.com/" target="_blank">Blogs</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="https://iamkamalraj.github.io" target="_blank">Blogs</a></li>
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()">
    </li>
@@ -210,28 +210,28 @@ $(window).on("load", function () {
 // Store Semester Recap data
 const sem_temp = [
   {
-    event_name: "Chemistry Lab",
-    event_type: "Mentorship",
+    event_name: "Tech ",
+    event_type: "Quest",
     event_image: "chemistrymentee.jpg",
   },
   {
-    event_name: "User Experience",
-    event_type: "Summer Research",
+    event_name: "Lead",
+    event_type: " ",
     event_image: "uxresearch.jpg",
   },
   {
-    event_name: "UX Team",
-    event_type: "Happy Hours",
+    event_name: "Photography",
+    event_type: "",
     event_image: "teamcamping.jpg",
   },
   {
-    event_name: "Orientation",
-    event_type: "Keynote",
+    event_name: "Overall",
+    event_type: "Designer Award",
     event_image: "groomingspeech.jpg",
   },
   {
-    event_name: "Graduation",
-    event_type: "Ceremony",
+    event_name: "Coordinator",
+    event_type: "",
     event_image: "graduation.jpg",
   },
 ];
