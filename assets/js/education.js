@@ -10,9 +10,19 @@ const moocscards = [
     moocLink: "https://ineuron.ai/course/Enterprise-Java-with-Spring-Boot-Tech-Neuron?source=search",
   },
   {
+    title: "Foundations of User Experience (UX) Design",
+    cardImage: "assets/images/education-page/google.png",
+    moocLink: "https://coursera.org/share/1b00dc7217069837dd9c573692142c9c",
+  },
+  {
     title: "Python Course",
     cardImage: "assets/images/education-page/progate.png",
     moocLink: "https://progate.com/course_certificate/8722ded1r5t1dr",
+  },
+  {
+    title: "Graphics Design",
+    cardImage: "assets/images/education-page/udemy.svg",
+    moocLink: "https://www.udemy.com/",
   },
   {
     title: "Adobe Photoshop",
@@ -25,19 +35,9 @@ const moocscards = [
     moocLink: "https://www.udemy.com/",
   },
   {
-    title: "UI/UX Design",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/",
-  },
-  {
     title: "HTML & CSS Course",
     cardImage: "assets/images/education-page/udemy.svg",
     moocLink: "https://www.udemy.com/certificate/UC-APAMKDH9/",
-  },
-  {
-    title: "Graphics Design",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/",
   },
   {
     title: "AutoCAD 2D and 3D practice drawings",
