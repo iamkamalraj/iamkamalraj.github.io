@@ -15,34 +15,34 @@ const moocscards = [
     moocLink: "https://coursera.org/share/1b00dc7217069837dd9c573692142c9c",
   },
   {
+    title: "Graphic Design Mastery & AI",
+    cardImage: "assets/images/education-page/gd.jpg",
+    moocLink: "https://www.udemy.com/certificate/UC-c7d30194-dd3e-4987-90f4-a4d410f2ec41/",
+  },
+  {
     title: "Python Course",
     cardImage: "assets/images/education-page/progate.png",
     moocLink: "https://progate.com/course_certificate/8722ded1r5t1dr",
   },
   {
-    title: "Graphics Design",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/",
-  },
-  {
     title: "Adobe Photoshop",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/udemy.jpeg",
     moocLink: "https://www.udemy.com/certificate/UC-G7JGN7HW/",
   },
   {
-    title: "Blockchain Foundations",
-    cardImage: "assets/images/education-page/udemy.svg",
-    moocLink: "https://www.udemy.com/",
-  },
-  {
     title: "HTML & CSS Course",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/udemy.jpeg",
     moocLink: "https://www.udemy.com/certificate/UC-APAMKDH9/",
   },
   {
     title: "AutoCAD 2D and 3D practice drawings",
-    cardImage: "assets/images/education-page/udemy.svg",
+    cardImage: "assets/images/education-page/udemy.jpeg",
     moocLink: "https://www.udemy.com/certificate/UC-X7DCFAMG/",
+  },
+  {
+    title: "Blockchain Foundations",
+    cardImage: "assets/images/education-page/udemy.jpeg",
+    moocLink: "https://www.udemy.com/",
   },
 
   
