@@ -25,6 +25,11 @@ const moocscards = [
     moocLink: "https://progate.com/course_certificate/8722ded1r5t1dr",
   },
   {
+    title: "Build Wireframes and Low-Fidelity Prototypes",
+    cardImage: "assets/images/education-page/coursera.png",
+    moocLink: "https://coursera.org/share/44e1a22615d837463aeec76520a260d5",
+  },
+  {
     title: "Adobe Photoshop",
     cardImage: "assets/images/education-page/udemy.jpeg",
     moocLink: "https://www.udemy.com/certificate/UC-G7JGN7HW/",
@@ -39,14 +44,6 @@ const moocscards = [
     cardImage: "assets/images/education-page/udemy.jpeg",
     moocLink: "https://www.udemy.com/certificate/UC-X7DCFAMG/",
   },
-  {
-    title: "Blockchain Foundations",
-    cardImage: "assets/images/education-page/udemy.jpeg",
-    moocLink: "https://www.udemy.com/",
-  },
-
-  
-  
 ];
 
 const experience = [
