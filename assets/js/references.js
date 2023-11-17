@@ -24,7 +24,7 @@ const references = [
         sl4: 4,
         name4 : "Logo Design & Development",
         designation4 : "Issued by Managing Director of Karthigeya Group Associated with Karthigeya Moulds & Dies Private Limited", 
-        image4 : "assets/images/references-page/ledo.jpg",
+        image4 : "assets/images/references-page/led.jpg",
         message4 : "Awarded Cash Prize and Incentive for the Logo Design and Development and special support in Graphic Design to Ledovec International Pvt Ltd.",
          
     },
