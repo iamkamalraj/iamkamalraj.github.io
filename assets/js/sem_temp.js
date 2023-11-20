@@ -210,29 +210,29 @@ $(window).on("load", function () {
 // Store Semester Recap data
 const sem_temp = [
   {
-    event_name: "Tech ",
-    event_type: "Quest",
-    event_image: "chemistrymentee.jpg",
+    event_name: "Designer ",
+    event_type: "",
+    event_image: "01.jpg",
+  },
+  {
+    event_name: "ELOQUENCE'23",
+    event_type: " ",
+    event_image: "02.png",
+  },
+  {
+    event_name: "IBM",
+    event_type: "",
+    event_image: "03.png",
+  },
+  {
+    event_name: "JavaFest",
+    event_type: "",
+    event_image: "04.png",
   },
   {
     event_name: "Lead",
-    event_type: " ",
-    event_image: "uxresearch.jpg",
-  },
-  {
-    event_name: "Photography",
     event_type: "",
-    event_image: "teamcamping.jpg",
-  },
-  {
-    event_name: "Overall",
-    event_type: "Designer Award",
-    event_image: "groomingspeech.jpg",
-  },
-  {
-    event_name: "Coordinator",
-    event_type: "",
-    event_image: "graduation.jpg",
+    event_image: "05.jpg",
   },
 ];
 
