@@ -99,11 +99,11 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "Developing a Blockchain- Based eVault for Legal Records",
-    subtitle: "Blockchain & Cybersecutrity",
+    title: "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
+    subtitle: "Indian Space Research Organisation(ISRO)",
     image: "assets/images/experience-page/sih23.png",
-    desp: "I am responsible for Blockchain Evault UI/UX and Web Development ",
-    href: "https://youtu.be/XNfDfIvFRz0?si=qIBEfA5ibiAheavq",
+    desp: "",
+    href: "https://sih23cryptovault.netlify.app/",
   },
 ];
 
@@ -120,7 +120,7 @@ const showCards3 = () => {
           <div class="blog-slider__title">${title}</div>
           <span class="blog-slider__code">${subtitle}</span>
           <div class="blog-slider__text">${desp}</div>
-          <a href="${href}" class="blog-slider__button">Read More</a>   
+          <a href="${href}" class="blog-slider__button">View Website</a>   
         </div>
       </div>
       `)
