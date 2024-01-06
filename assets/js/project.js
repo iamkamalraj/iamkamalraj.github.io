@@ -6,6 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Smart India Hackathon 23",
+    cardImage: "assets/images/project-page/sih23.webp",
+    description: "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://sih23cryptovault.netlify.app/",
+    Githublink: "https://github.com/iamkamalraj/Smart-India-Hackathon-23",
+  },
+  {
     title: "ELOQUENCE'23 (6th National Level Symposium) ",
     cardImage: "assets/images/project-page/eloq.webp",
     description: "6th National Level Technical Symposium",
