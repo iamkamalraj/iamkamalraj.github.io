@@ -101,7 +101,7 @@ const mentor = [
   {
     title: "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
     subtitle: "Indian Space Research Organisation(ISRO)",
-    image: "assets/images/experience-page/sih23.png",
+    image: "assets/images/project-page/sih23.png",
     desp: "",
     href: "https://sih23cryptovault.netlify.app/",
   },
