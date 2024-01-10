@@ -8,7 +8,7 @@ const exp = [
     title: "Graphic Design Intern",
     cardImage: "assets/images/experience-page/te.jpg",
     place: "My Equation (formerly Tech Analogy)",
-    time: "(Nov 2023 - Present)",
+    time: "(Nov 2023 - Dec 2023)",
     desp: "<li>Producing artworks like slide presentations, logos, posters, brochures, flyers, illustrations etc.</li><li>Designing and curating content into graphical form.</li><li>Preparing and formulating methodologies to improve the brand quality for the organization</li>",
   },
   {
