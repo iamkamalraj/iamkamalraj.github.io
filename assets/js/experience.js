@@ -9,7 +9,7 @@ const exp = [
     cardImage: "assets/images/experience-page/mfb.jpg",
     place: "MYFUNDBOX - Global Subscription Payments Simplified!",
     time: "(Feb 2024 - Present)",
-    desp: "<li>Front End Development of MYFUNDBOX</li><li>Tech Stack - Typescript,  React, HTMl, Git</li><li>User Experiance Design for Myfundbox Admin Payment Page and Sidebar </li>",
+    desp: "<li>Front End Development of MYFUNDBOX</li><li>Tech Stack - Typescript,  React, HTML, Git</li><li>User Experiance Design for Myfundbox Admin Payment Page and Sidebar </li>",
   },
   {
     title: "Graphic Design Intern",
