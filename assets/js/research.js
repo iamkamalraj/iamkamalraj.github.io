@@ -4,6 +4,21 @@ const researchTable = document.querySelector(".main");
 
 const research = [
   {
+    title: "Piax Pitch Deck",
+    authors: "Kamal Raj P, Madhumitha B",
+    conferences:
+      "IIMB - NSRCEL: Incubation Centre for Startups & Entrepreneurs",
+    researchYr: 2024,
+    citebox: "popup2",
+    image: "assets/images/research-page/piax.png",
+    citation: {
+      vancouver: "Kamal Raj, Madhumitha ",
+    },
+    abstract:
+      "Piax envisions a world where women feel empowered, confident, and in control of their health and hygiene. Through innovative products and technology, we aim to revolutionize the menstrual care experience, foster sustainability, and create a supportive community for women worldwide. Our vision is to redefine women's health and hygiene, promoting empowerment, inclusivity, and well-being for all.",
+    absbox: "absPopup1",
+  },
+  {
     title: "TAMILNADU STATE COUNCIL FOR SCIENCE AND TECHNOLOGY",
     authors:
       "Kamal Raj,Shafwaan Ahmed,Rahul B,Vadepeer M,",
