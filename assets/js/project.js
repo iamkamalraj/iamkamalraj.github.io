@@ -6,9 +6,19 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
-    title: "Smart India Hackathon 23",
+    title: "Piax - Competitor analysis",
+    cardImage: "assets/images/project-page/comp.webp",
+    description: "User Experiance Research",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink:
+      "https://www.behance.net/gallery/195837353/Piax-Competitor-analysis",
+    Githublink: "https://www.behance.net/iamkamalraj",
+  },
+  {
+    title: "Smart India Hackathon 2023 - ISRO",
     cardImage: "assets/images/project-page/sih23.png",
-    description: "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
+    description:
+      "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "https://sih23cryptovault.netlify.app/",
     Githublink: "https://github.com/iamkamalraj/Smart-India-Hackathon-23",
@@ -22,12 +32,12 @@ const projects = [
     Githublink: "https://github.com/iamkamalraj",
   },
   {
-    title: "Guesser Game (A quiz game built using Java)",
-    cardImage: "assets/images/project-page/quiz.jpg",
-    description: "A quiz game built using Java.",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
-    Previewlink: "https://github.com/iamkamalraj/",
-    Githublink: "https://github.com/iamkamalraj/Guesser-Game",
+    title: "logo Design (for Karthigeya Group)",
+    cardImage: "assets/images/project-page/alllogo.png",
+    description: "Ledovec International",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/flappybird.png",
+    Previewlink: "https://www.karthigeya.com/",
+    Githublink: "https://www.behance.net/iamkamalraj",
   },
   {
     title: "Progate Website (Using HTML & CSS)",
@@ -38,12 +48,12 @@ const projects = [
     Githublink: "https://github.com/iamkamalraj/HTML",
   },
   {
-    title: "logo Design (for Karthigeya Group)",
-    cardImage: "assets/images/project-page/alllogo.png",
-    description: "Ledovec International",
-    tagimg: "https://cdn.iconscout.com/icon/free/png-512/flappybird.png",
-    Previewlink: "https://www.karthigeya.com/",
-    Githublink: "https://www.behance.net/iamkamalraj",
+    title: "Guesser Game (A quiz game built using Java)",
+    cardImage: "assets/images/project-page/quiz.jpg",
+    description: "A quiz game built using Java.",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://github.com/iamkamalraj/",
+    Githublink: "https://github.com/iamkamalraj/Guesser-Game",
   },
   
 ];
