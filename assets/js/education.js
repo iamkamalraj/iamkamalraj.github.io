@@ -5,9 +5,46 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
-    title: "Enterprise Java with Spring Boot",
-    cardImage: "assets/images/education-page/ineuron.jpg",
-    moocLink: "https://ineuron.ai/course/Enterprise-Java-with-Spring-Boot-Tech-Neuron?source=search",
+    title: "ISRO - Department of Space - Smart India Hackathon 2023",
+    cardImage: "assets/images/education-page/sih.png",
+    moocLink:
+      "https://drive.google.com/file/d/1cSiTaXXtkfGWO89Rmwh9vmZBwF5A3Ehf/view?usp=sharing",
+  },
+  {
+    title: "Innovation, Design and Entrepreneurship (IDE) Bootcamp Phase-II",
+    cardImage: "assets/images/education-page/ide.png",
+    moocLink:
+      "https://drive.google.com/file/d/16gaGlEhN45dGf1Psg8pN7ytpkqjlRpX1/view",
+  },
+  {
+    title: "Build Dynamic User Interfaces (UI) for Websites",
+    cardImage: "assets/images/education-page/google.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/verify/DKVVQCNJUUUZ",
+  },
+  {
+    title: "Create High-Fidelity Designs and Prototypes in Figma",
+    cardImage: "assets/images/education-page/google.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/verify/9WFBNXXNVZUC",
+  },
+  {
+    title: "Conduct UX Research and Test Early Concepts",
+    cardImage: "assets/images/education-page/google.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/verify/7Q5A3EEEUTDX",
+  },
+  {
+    title: "Start the UX Design Process: Empathize, Define, and Ideate",
+    cardImage: "assets/images/education-page/google.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/verify/E8HCJ3F6BJ33",
+  },
+  {
+    title: "Build Wireframes and Low-Fidelity Prototypes",
+    cardImage: "assets/images/education-page/google.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/verify/S72HTFNCMYFX?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course",
   },
   {
     title: "Foundations of User Experience (UX) Design",
@@ -15,9 +52,22 @@ const moocscards = [
     moocLink: "https://coursera.org/share/1b00dc7217069837dd9c573692142c9c",
   },
   {
+    title: "Developing Front-End Apps with React",
+    cardImage: "assets/images/education-page/ibm.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/verify/63KT2R7M8XVV",
+  },
+  {
+    title: "Blockchain",
+    cardImage: "assets/images/education-page/univ.png",
+    moocLink:
+      "https://www.coursera.org/account/accomplishments/specialization/WWM5XYF9TB7N?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Ds12n",
+  },
+  {
     title: "Graphic Design Mastery & AI",
     cardImage: "assets/images/education-page/gd.jpg",
-    moocLink: "https://www.udemy.com/certificate/UC-c7d30194-dd3e-4987-90f4-a4d410f2ec41/",
+    moocLink:
+      "https://www.udemy.com/certificate/UC-c7d30194-dd3e-4987-90f4-a4d410f2ec41/",
   },
   {
     title: "Python Course",
@@ -35,9 +85,10 @@ const moocscards = [
     moocLink: "https://www.udemy.com/certificate/UC-G7JGN7HW/",
   },
   {
-    title: "HTML & CSS Course",
-    cardImage: "assets/images/education-page/udemy.jpeg",
-    moocLink: "https://www.udemy.com/certificate/UC-APAMKDH9/",
+    title: "Enterprise Java with Spring Boot",
+    cardImage: "assets/images/education-page/ineuron.jpg",
+    moocLink:
+      "https://ineuron.ai/course/Enterprise-Java-with-Spring-Boot-Tech-Neuron?source=search",
   },
   {
     title: "AutoCAD 2D and 3D practice drawings",
