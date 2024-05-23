@@ -90,12 +90,12 @@ const moocscards = [
     cardImage: "assets/images/education-page/udemy.jpeg",
     moocLink: "https://www.udemy.com/certificate/UC-G7JGN7HW/",
   },
-  {
-    title: "Enterprise Java with Spring Boot",
-    cardImage: "assets/images/education-page/ineuron.jpg",
-    moocLink:
-      "https://ineuron.ai/course/Enterprise-Java-with-Spring-Boot-Tech-Neuron?source=search",
-  },
+  // {
+  //   title: "Enterprise Java with Spring Boot",
+  //   cardImage: "assets/images/education-page/ineuron.jpg",
+  //   moocLink:
+  //     "https://ineuron.ai/course/Enterprise-Java-with-Spring-Boot-Tech-Neuron?source=search",
+  // },
   {
     title: "AutoCAD 2D and 3D practice drawings",
     cardImage: "assets/images/education-page/udemy.jpeg",
