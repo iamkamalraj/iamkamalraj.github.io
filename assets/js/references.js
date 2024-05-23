@@ -16,6 +16,20 @@ const references = [
     message5:
       "We successfully completed the development of an AI-based nowcasting model for predicting heavy precipitation events using INSAT-3D/3DR satellite data. Our system includes an explainable AI module (XAI) to enhance interpretability. The final output is delivered through a user-friendly web application, showcasing model accuracy and providing explanations for the generated predictions. This marks the achievement of our goals for SIH'23 Final.",
 
+    sl7: 7,
+    name7: "Business Plan Presentation - First Place Special Prize",
+    designation7: "Issued by HAKCETPION'24 - School of Management ",
+    image7: "assets/images/references-page/mba.jpg",
+    message7:
+      "Presenting my startup business plan to esteemed judges and securing first place was an incredible experience, boosting my confidence and providing valuable insights for my entrepreneurial journey.",
+
+    sl7: 8,
+    name8: "Innovation Design & Entrepreneurship Bootcamp Phase3",
+    designation8: "Issued by MINISTRY OF EDUCATION, GOVERNMENT OF INDIA",
+    image8: "assets/images/references-page/ide3.jpg",
+    message8:
+      "I presented my idea pitch for my startup, receiving positive insights and valuable funding ideas. This feedback was immensely helpful, providing me with crucial direction and support for my entrepreneurial journey.",
+
     sl4: 4,
     name4: "Logo Design & Development",
     designation4:
@@ -58,6 +72,18 @@ const fillData = () => {
       designation5,
       message5,
       absbox_for_linkedin5,
+      sl7,
+      image7,
+      name7,
+      designation7,
+      message7,
+      absbox_for_linkedin7,
+      sl58,
+      image8,
+      name8,
+      designation8,
+      message8,
+      absbox_for_linkedin8,
       sl4,
       image4,
       name4,
@@ -111,6 +137,43 @@ const fillData = () => {
 
             </td>
             <td class="imgCol"><img src="${image5}" class="rImg1"></td>
+
+
+            <tr data-aos="zoom-in-left"> 
+                       
+            <td class="imgCol"><img src="${image7}" class="rImg"></td>
+                <td class = "referenceTitleName">
+                    <div>
+                        <span class="imgResponsive">
+                            <img src="${image7}" class="imgRes">
+                        </span>
+                    </div>
+                    <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
+                    <a href="#0" class="paperTitle"> ${name7} </a> 
+                    <div> ${designation7} </div> <div class="rConferences">  
+                        <div class="referenceY">${message7}</div>
+                    </div>  
+                </td>
+            </tr> 
+
+
+            <tr data-aos="zoom-in-left"> 
+                       
+            <td class = "referenceTitleName">
+                <div>
+                    <span class="imgResponsive">
+                        <img src="${image8}" class="imgRes">
+                    </span>
+                </div>
+                <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
+                <a href="#0" class="paperTitle">${name8} </a> 
+                <div> ${designation8} </div> <div class="rConferences">
+                    <div class="referenceY">${message8}</div>
+                </div>
+    
+
+            </td>
+            <td class="imgCol"><img src="${image8}" class="rImg1"></td>
 
 
             
