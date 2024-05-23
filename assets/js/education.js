@@ -5,6 +5,12 @@ AOS.init();
 const moocs = document.querySelector(".moocs");
 const moocscards = [
   {
+    title: "Innovation, Design and Entrepreneurship (IDE) Bootcamp Phase-III",
+    cardImage: "assets/images/education-page/ide.png",
+    moocLink:
+      "https://drive.google.com/file/d/1KY1TY4RSjcByM8aXR9EEOxjWlesO0qzs/view?usp=sharing",
+  },
+  {
     title: "ISRO - Department of Space - Smart India Hackathon 2023",
     cardImage: "assets/images/education-page/sih.png",
     moocLink:
