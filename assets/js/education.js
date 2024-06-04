@@ -11,7 +11,7 @@ const moocscards = [
       "https://drive.google.com/file/d/1KY1TY4RSjcByM8aXR9EEOxjWlesO0qzs/view?usp=sharing",
   },
   {
-    title: "ISRO - Department of Space - Smart India Hackathon 2023",
+    title: "ISRO - Department of Space - Smart India Hackathon-2023",
     cardImage: "assets/images/education-page/sih.png",
     moocLink:
       "https://drive.google.com/file/d/1cSiTaXXtkfGWO89Rmwh9vmZBwF5A3Ehf/view?usp=sharing",
