@@ -6,6 +6,15 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "Brand Identity - PIAX",
+    cardImage: "assets/images/project-page/brand.webp",
+    description: "User Experiance Research",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink:
+      "https://www.behance.net/gallery/201037419/PIAX-Brand-Identity",
+    Githublink: "https://www.behance.net/iamkamalraj",
+  },
+  {
     title: "Piax - Competitor analysis",
     cardImage: "assets/images/project-page/comp.webp",
     description: "User Experiance Research",
@@ -55,7 +64,6 @@ const projects = [
     Previewlink: "https://github.com/iamkamalraj/",
     Githublink: "https://github.com/iamkamalraj/Guesser-Game",
   },
-  
 ];
 
 // function for rendering project cards data
