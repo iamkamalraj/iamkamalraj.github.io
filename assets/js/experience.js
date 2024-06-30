@@ -8,7 +8,7 @@ const exp = [
     title: "Software Development Engineer Intern",
     cardImage: "assets/images/experience-page/mfb.jpg",
     place: "MYFUNDBOX - Global Subscription Payments Simplified!",
-    time: "(Feb 2024 - Present)",
+    time: "(Feb 2024 - Apr 2024)",
     desp: "<li>Front End Development of MYFUNDBOX</li><li>Tech Stack - Typescript,  React, HTML, Git</li><li>User Experiance Design for Myfundbox Admin Payment Page and Sidebar </li>",
   },
   {
@@ -62,10 +62,10 @@ document.addEventListener("DOMContentLoaded", showCards2);
 const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "Vegetation measurement along the line corridor using satellite imagery",
+    title:
+      "Vegetation measurement along the line corridor using satellite imagery",
     cardImage: "assets/images/experience-page/12.jpg",
-    description:
-      "SIH 2023 Idea",
+    description: "SIH 2023 Idea",
   },
   {
     title: "AUDIOBOOK CHURN PREDICTION",
@@ -78,9 +78,8 @@ const volunteershipcards = [
     cardImage: "assets/images/experience-page/indoornav.jpg",
     description:
       "User can view Muesum, artifacts and the path generated between them - SIH 2022 Idea",
-    
   },
-  ];
+];
 
 const showCards = () => {
   let output = "";
@@ -106,7 +105,8 @@ document.addEventListener("DOMContentLoaded", showCards);
 const hackathonsection = document.querySelector(".hackathon-section");
 const mentor = [
   {
-    title: "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
+    title:
+      "SIH 1521 - Development of Explainable AI (XAI) based model for prediction of heavy /high impact rain events using satellite data",
     subtitle: "Indian Space Research Organisation(ISRO)",
     image: "assets/images/project-page/sih23.png",
     desp: "",
