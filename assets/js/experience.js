@@ -5,13 +5,6 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Software Development Engineer Intern",
-    cardImage: "assets/images/experience-page/mfb.jpg",
-    place: "MYFUNDBOX - Global Subscription Payments Simplified!",
-    time: "(Feb 2024 - Apr 2024)",
-    desp: "<li>Front End Development of MYFUNDBOX</li><li>Tech Stack - Typescript,  React, HTML, Git</li><li>User Experiance Design for Myfundbox Admin Payment Page and Sidebar </li>",
-  },
-  {
     title: "Graphic Design Intern",
     cardImage: "assets/images/experience-page/te.jpg",
     place: "My Equation (formerly Tech Analogy)",

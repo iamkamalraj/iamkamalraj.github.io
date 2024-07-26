@@ -6,6 +6,14 @@ const projectcards = document.querySelector(".projectcards");
 // Array of object for projects
 const projects = [
   {
+    title: "PIAX - CASE STUDY",
+    cardImage: "assets/images/project-page/casestudy.webp",
+    description: "User Experiance Research",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "https://www.behance.net/gallery/204023151/PIAX-Case-Study",
+    Githublink: "https://www.behance.net/iamkamalraj",
+  },
+  {
     title: "Brand Identity - PIAX",
     cardImage: "assets/images/project-page/brand.webp",
     description: "User Experiance Research",
